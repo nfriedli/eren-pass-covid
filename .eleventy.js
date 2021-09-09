@@ -5,6 +5,7 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("logo.jpg");
     eleventyConfig.addPassthroughCopy("favicon.ico");
+    eleventyConfig.addPassthroughCopy("assets/*");
 
     eleventyConfig.setLibrary("md", markdownIt({
         html: true,

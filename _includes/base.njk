@@ -57,6 +57,38 @@
             text-decoration-color: #b99e02;
             text-decoration-thickness: .2em;
         }
+
+        @font-face {
+            font-display: swap;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            src: url('/assets/roboto-v27-latin-regular.woff2') format('woff2');
+        }
+
+        @font-face {
+            font-display: swap;
+            font-family: 'Roboto';
+            font-style: italic;
+            font-weight: 400;
+            src: url('/assets/roboto-v27-latin-italic.woff2') format('woff2');
+        }
+
+        @font-face {
+            font-display: swap;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            src: url('/assets/roboto-v27-latin-700.woff2') format('woff2');
+        }
+
+        @font-face {
+            font-display: swap;
+            font-family: 'Roboto';
+            font-style: italic;
+            font-weight: 700;
+            src: url('/assets/roboto-v27-latin-700italic.woff2') format('woff2');
+        }
     </style>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -71,7 +103,7 @@
 
         gtag('config', 'UA-64333842-2');
     </script>
-
+    <meta name="theme-color" content="#1e1544">
 </head>
 
 <body>
@@ -85,8 +117,8 @@
     </main>
     <footer>
         <p>{% if page.url=="/" %}<a href="https://www.eren.ch/coronavirus/">← Page «Coronavirus» de l’EREN</a>
-        {% else %}<a href="../">← Retour au début de l’aide</a>
-        {% endif %}</p>
+            {% else %}<a href="../">← Retour au début de l’aide</a>
+            {% endif %}</p>
         <p>Version 20210909. Pour les mesures applicables au 13 septembre 2021.</p>
         <img src="../logo.jpg" width="256" height="256" alt="Logo de l’EREN">
     </footer>
