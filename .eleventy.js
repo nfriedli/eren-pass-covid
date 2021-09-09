@@ -4,6 +4,7 @@ const markdownIt = require("markdown-it");
 module.exports = function (eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("logo.jpg");
+    eleventyConfig.addPassthroughCopy("favicon.ico");
 
     eleventyConfig.setLibrary("md", markdownIt({
         html: true,
