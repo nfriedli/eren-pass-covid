@@ -5,6 +5,8 @@ title: Certificat Covid dans l'EREN
 Ce site est un complément aux [directives du Conseil synodal](https://www.eren.ch/coronavirus/) qui font foi.
 Il est destiné en premier lieu aux organisateurs de manifestations religieuses et d'activités dans l'EREN.
 
+**Les contenus seront actualisés en fonction des directives de l'ORSP du 13 septembre 2021.**
+
 ## Faut-il exiger un certificat Covid?
 
 L'événement a lieu:
