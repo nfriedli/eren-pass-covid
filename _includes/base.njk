@@ -9,7 +9,7 @@
     <meta name="robots" content="noindex">
     <style>
         html {
-            color: #333;
+            color: #1e1544;
             background: #fff;
             font-family: Roboto, Arial, sans-serif;
             font-size: 110%;
@@ -23,15 +23,19 @@
         }
 
         main {
-            margin: 3rem 0;
+            margin: 5rem 0;
         }
 
-        header, footer {
+        header,
+        footer {
             font-size: .8rem;
         }
 
-        h1, h2 {
+        h1,
+        h2 {
             line-height: 1.2;
+            margin-top: 3em;
+            margin-bottom: 2em;
         }
 
         h1 {
@@ -41,7 +45,27 @@
         h2 {
             font-size: 1.2rem;
         }
+
+        a {
+            color: #1e1544;
+            text-decoration-color: #b99e02;
+            text-decoration-thickness: .2em;
+        }
     </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        rel="stylesheet">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-64333842-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-64333842-2');
+    </script>
+
 </head>
 
 <body>
@@ -51,7 +75,7 @@
         {{ content | safe }}
     </main>
     <footer>
-        Données selon les mesures applicables au 13 septembre 2021.
+        Version 20210909. Pour les mesures applicables au 13 septembre 2021.
     </footer>
 </body>
 
