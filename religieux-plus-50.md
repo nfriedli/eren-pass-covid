@@ -1,5 +1,5 @@
 ---
-title: Manifestations religieuses 
+title: Manifestations religieuses  >50 personnes
 ---
 
 Cette page concerne les manifestations religieuses

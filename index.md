@@ -12,9 +12,7 @@ L'événement a lieu:
 - [à l'intérieur](../interieur/)
 - [à l'extérieur](../exterieur/)
 
-----
-
-## Certificat Covid
+## À propos du certificat Covid
 
 Pour rappel, un certificat Covid est un document officiel délivré:
 
@@ -22,7 +20,7 @@ Pour rappel, un certificat Covid est un document officiel délivré:
 - aux personnes guéries
 - aux personnes testées par PCR ou antigénique rapide
 
-Il peut être présenté en version papier ou dans l'application *Covid cerfificate*.
+Il peut être présenté en version papier ou dans l'application *Covid certificate*.
 
 ## Contact
 
