@@ -11,7 +11,7 @@ Cette page concerne les manifestations religieuses
 
 Elles peuvent avoir lieu sans certificat Covid, avec les consignes suivantes:
 
-- port du masque des 12 ans
+- port du masque dès 12 ans **et**
 - tenue d'une liste des personnes présentes
 
 Le Conseil synodal souhaite au moins un culte sans certificat Covid par mois dans chaque paroisse.

@@ -16,8 +16,8 @@ L'événement a lieu:
 
 Pour rappel, un certificat Covid est un document officiel délivré:
 
-- aux personnes complètement vaccinées
-- aux personnes guéries
+- aux personnes complètement vaccinées **ou**
+- aux personnes guéries **ou**
 - aux personnes testées par PCR ou antigénique rapide
 
 Il peut être présenté en version papier ou dans l'application *Covid certificate*.
