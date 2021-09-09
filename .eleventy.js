@@ -1,6 +1,15 @@
 const htmlmin = require("html-minifier");
+const markdownIt = require("markdown-it");
 
 module.exports = function (eleventyConfig) {
+
+    eleventyConfig.addPassthroughCopy("logo.jpg");
+
+    eleventyConfig.setLibrary("md", markdownIt({
+        html: true,
+        typographer: true,
+        linkify: true,
+    }));
 
     eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
 

@@ -22,6 +22,8 @@ Pour rappel, un certificat Covid est un document officiel délivré:
 
 Il peut être présenté en version papier ou dans l'application *Covid certificate*.
 
+**Les autotests n'ont pas valeur de certificat Covid.**
+
 ## Contact
 
 Yves Bourquin  

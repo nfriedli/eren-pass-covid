@@ -12,15 +12,15 @@
             color: #1e1544;
             background: #fff;
             font-family: Roboto, Arial, sans-serif;
-            font-size: 110%;
+            font-size: 106.25%;
             line-height: 1.5;
             hyphens: auto;
         }
 
         body {
-            margin: auto;
+            margin: 1rem auto;
             padding: 1rem;
-            max-width: 30rem;
+            max-width: 35em;
         }
 
         main {
@@ -30,6 +30,10 @@
         header,
         footer {
             font-size: .8rem;
+        }
+
+        footer {
+            text-align: center;
         }
 
         h1,
@@ -71,13 +75,20 @@
 </head>
 
 <body>
-    <header><a href="../">Certificat Covid dans l'EREN</a></header>
+    <header>{% if page.url=="/" %}Certificat Covid dans l’EREN
+        {% else %}<a href="../">Certificat Covid dans l’EREN</a>
+        {% endif %}
+    </header>
     <main>
         <h1>{{ title }}</h1>
         {{ content | safe }}
     </main>
     <footer>
-        Version 20210909. Pour les mesures applicables au 13 septembre 2021.
+        <p>{% if page.url=="/" %}<a href="https://www.eren.ch/coronavirus/">← Page «Coronavirus» de l’EREN</a>
+        {% else %}<a href="https://www.eren.ch/coronavirus/">← Retour au début de l’aide</a>
+        {% endif %}</p>
+        <p>Version 20210909. Pour les mesures applicables au 13 septembre 2021.</p>
+        <img src="../logo.jpg" width="256" height="256" alt="Logo de l’EREN">
     </footer>
 </body>
 
