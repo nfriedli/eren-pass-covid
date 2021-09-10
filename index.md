@@ -11,8 +11,8 @@ Il est destiné en premier lieu aux organisateurs de manifestations religieuses 
 
 L'événement a lieu:
 
-- [à l'intérieur](../interieur/)
-- [à l'extérieur](../exterieur/)
+- [à l'intérieur](/interieur/)
+- [à l'extérieur](/exterieur/)
 
 ## À propos du certificat Covid
 

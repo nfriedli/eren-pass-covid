@@ -18,7 +18,7 @@
         html {
             color: #1e1544;
             background: #fff;
-            font-family: Roboto, Arial, sans-serif;
+            font-family: Roboto, Inter, "Open Sans", Arial, sans-serif;
             font-size: 100%;
             line-height: 1.6;
             hyphens: auto;
@@ -86,38 +86,6 @@
                 padding-left: 0;
             }
         }
-
-        @font-face {
-            font-display: swap;
-            font-family: 'Roboto';
-            font-style: normal;
-            font-weight: 400;
-            src: url('/assets/roboto-v27-latin-regular.woff2') format('woff2');
-        }
-
-        @font-face {
-            font-display: swap;
-            font-family: 'Roboto';
-            font-style: italic;
-            font-weight: 400;
-            src: url('/assets/roboto-v27-latin-italic.woff2') format('woff2');
-        }
-
-        @font-face {
-            font-display: swap;
-            font-family: 'Roboto';
-            font-style: normal;
-            font-weight: 700;
-            src: url('/assets/roboto-v27-latin-700.woff2') format('woff2');
-        }
-
-        @font-face {
-            font-display: swap;
-            font-family: 'Roboto';
-            font-style: italic;
-            font-weight: 700;
-            src: url('/assets/roboto-v27-latin-700italic.woff2') format('woff2');
-        }
     </style>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-64333842-2"></script>
@@ -133,7 +101,7 @@
 
 <body>
     <header>{% if page.url=="/" %}Certificat Covid dans l’EREN
-        {% else %}<a href="../">Certificat Covid dans l’EREN</a>
+        {% else %}<a href="/">Certificat Covid dans l’EREN</a>
         {% endif %}
     </header>
     <main>
@@ -142,10 +110,10 @@
     </main>
     <footer>
         <p>{% if page.url=="/" %}<a href="https://www.eren.ch/coronavirus/">← Page «Coronavirus» de l’EREN</a>
-            {% else %}<a href="../">← Retour au début de l’aide</a>
+            {% else %}<a href="/">← Retour au début de l’aide</a>
             {% endif %}</p>
-        <p>Version 20210909. Pour les mesures applicables au 13 septembre 2021.</p>
-        <img src="../assets/logo.jpg" width="256" height="256" alt="Logo de l’EREN">
+        <p>Version 20210910. Pour les mesures applicables au 13 septembre 2021.</p>
+        <img src="/assets/logo.jpg" width="256" height="256" alt="Logo de l’EREN" loading="lazy" decoding="async">
     </footer>
 </body>
 
