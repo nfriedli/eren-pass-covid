@@ -2,10 +2,8 @@
 title: Certificat Covid dans l'EREN
 ---
 
-Ce site est un complément aux [directives du Conseil synodal](https://www.eren.ch/coronavirus/) qui font foi.
+Ce site est un complément aux directives du Conseil synodal qui font foi.
 Il est destiné en premier lieu aux organisateurs de manifestations religieuses et d'activités dans l'EREN.
-
-**Note:** Les contenus seront actualisés en fonction des [mesures et ordonnances de la Confédération](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html) qui seront publiées le 13 septembre 2021. 
 
 ## Faut-il exiger un certificat Covid?
 
@@ -13,6 +11,14 @@ L'événement a lieu:
 
 - [à l'intérieur](/interieur/)
 - [à l'extérieur](/exterieur/)
+
+
+## À propos de ce site
+
+L'utilisation du certificat Covid commence le 13 septembre 2021. 
+Elle durera au moins jusqu'au 24 janvier 2022.
+
+Les contenus seront actualisés en fonction des [mesures et ordonnances de la Confédération](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html), des décisions cantonales, des [directives du Conseil synodal](https://www.eren.ch/coronavirus/) et des retours à l'utilisation du site.
 
 ## À propos du certificat Covid
 
