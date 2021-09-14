@@ -25,3 +25,12 @@ Les paroisses doivent être prêtes à refuser du monde le cas échéant.
 Il peut être décidé d'exiger un certificat Covid (≥16 ans) aussi pour des manifestations religieuses de moins de 50 personnes.
 
 L'exigence du certificat Covid doit être **annoncée à l'avance** dans les communications paroissiales et sur le site de la paroisse.
+
+## À propos de la Cène
+
+La Cène est célébrée en défilé et il est nécessaire de faire attention aux points suivants:
+
+- préparer le pain (couper en morceaux) et le vin avant le culte
+- servir le vin dans des gobelets ou verres individuels
+- **si sans certificat Covid:** faire respecter strictement la distance entre les fidèles soit par un marquage au sol ou par une personne qui guide les personnes
+- désinfecter les mains avant la distribution du pain.
