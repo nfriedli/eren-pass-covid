@@ -15,7 +15,7 @@ Les manifestations sont possibles sans certificat Covid si elles respectent **to
 
 - groupes de prière ou de rencontre
 - groupes nécessaires au fonctionnement de l'EREN (conseils et commissions)
-- responsables de catéchisme
+- catéchisme (selon organisation)
 - répétitions
 
 ## Remarque
