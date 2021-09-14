@@ -32,5 +32,7 @@ La Cène est célébrée en défilé et il est nécessaire de faire attention au
 
 - préparer le pain (couper en morceaux) et le vin avant le culte
 - servir le vin dans des gobelets ou verres individuels
-- **si sans certificat Covid:** faire respecter strictement la distance entre les fidèles soit par un marquage au sol ou par une personne qui guide les personnes
-- désinfecter les mains avant la distribution du pain.
+- **si le certificat Covid n'est pas exigé:** faire respecter strictement la distance entre les fidèles soit par un marquage au sol ou par une personne qui guide les personnes
+- désinfecter les mains avant la distribution du pain
+
+**Si le certificat Covid est exigé:** la Cène peut être célébrée en cercle, sans passage d'une coupe de vin.

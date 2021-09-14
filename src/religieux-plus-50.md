@@ -12,11 +12,12 @@ Il n'y a pas de limitation du nombre de personnes.
 
 ## À propos de la Cène
 
-La Cène est célébrée en défilé et il est nécessaire de faire attention aux points suivants:
+La Cène est célébrée en défilé ou en cercle. Il est nécessaire de faire attention aux points suivants:
 
 - préparer le pain (couper en morceaux) et le vin avant le culte
-- servir le vin dans des gobelets ou verres individuels
-- désinfecter les mains avant la distribution du pain.
+- servir le vin dans des gobelets ou verres individuels (pas de passage d'une coupe de vin)
+- désinfecter les mains avant la distribution du pain
+
 
 ## Remarque
 
