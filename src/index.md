@@ -12,14 +12,6 @@ L'événement a lieu:
 - [à l'intérieur](/interieur/)
 - [à l'extérieur](/exterieur/)
 
-
-## À propos de ce site
-
-L'utilisation du certificat Covid commence le 13 septembre 2021. 
-Elle durera au moins jusqu'au 24 janvier 2022.
-
-Les contenus seront actualisés en fonction des [mesures et ordonnances de la Confédération](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html), des décisions cantonales, des [directives du Conseil synodal](https://www.eren.ch/coronavirus/) et des retours à l'utilisation du site.
-
 ## À propos du certificat Covid
 
 Pour rappel, un certificat Covid est un document officiel délivré:
@@ -28,9 +20,23 @@ Pour rappel, un certificat Covid est un document officiel délivré:
 - aux personnes guéries **ou**
 - aux personnes testées par PCR ou antigénique rapide
 
-Il peut être présenté en version papier ou dans l'application *Covid certificate*.
-
 **Les autotests n'ont pas valeur de certificat Covid.**
+
+Le certificat Covid peut être **présenté** en version papier ou dans l'application *COVID certificate*.
+
+Il est **vérifié** par l'application *COVID Certificate Check*:
+
+- [version Android](https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier)
+- [version Apple iOS](https://apps.apple.com/us/app/covid-certificate-check/id1565917510?ign-itsct=apps_box_link&ign-itscg=30200)
+
+En savoir plus: [Contrôle du certificat COVID: questions fréquentes](https://www.newsd.admin.ch/newsd/message/attachments/68148.pdf)
+
+## À propos de ce site
+
+L'utilisation du certificat Covid commence le 13 septembre 2021. 
+Elle durera au moins jusqu'au 24 janvier 2022.
+
+Les contenus seront actualisés en fonction des [mesures et ordonnances de la Confédération](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html), des décisions cantonales, des [directives du Conseil synodal](https://www.eren.ch/coronavirus/) et des retours à l'utilisation du site.
 
 ## Contact
 
