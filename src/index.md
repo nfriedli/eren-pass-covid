@@ -22,14 +22,21 @@ Pour rappel, un certificat Covid est un document officiel délivré:
 
 **Les autotests n'ont pas valeur de certificat Covid.**
 
-Le certificat Covid peut être **présenté** en version papier ou dans l'application *COVID certificate*.
+### Présentation du certificat Covid
 
-Il est **vérifié** par l'application *COVID Certificate Check*:
+La **présentation** du certificat peut se faire en format papier ou dans l’application **COVID Certificate**:
 
-- [version Android](https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier)
-- [version Apple iOS](https://apps.apple.com/us/app/covid-certificate-check/id1565917510?ign-itsct=apps_box_link&ign-itscg=30200)
+- [Android](https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.wallet&hl=fr_CH&gl=US)
+- [Apple iOS](https://apps.apple.com/us/app/covid-certificate/id1565917320)
 
-En savoir plus: [Contrôle du certificat COVID: questions fréquentes](https://www.newsd.admin.ch/newsd/message/attachments/68148.pdf)
+### Vérification du certificat Covid
+
+La **vérification** du certificat se fait par l’application **COVID Certificate Check**:
+
+- [Android](https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier&hl=fr_CH&gl=US)
+- [Apple iOS](https://apps.apple.com/ch/app/covid-certificate-check/id1565917510)
+
+**En savoir plus:** [Contrôle du certificat COVID: questions fréquentes](https://www.newsd.admin.ch/newsd/message/attachments/68148.pdf)
 
 ## À propos de ce site
 
