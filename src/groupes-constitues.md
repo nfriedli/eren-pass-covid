@@ -25,9 +25,6 @@ En général, les groupes constitués sont convoqués et ont des rencontres plan
 
 ## Activités destinées aux <16 ans
 
-Si toutes les personnes de 16 ans et plus sont au bénéfice d'un certificat Covid, l'activité peut être considérée comme [manifestation culturelle](/culturel/).
+Pour les activités (groupes constitués tels que l'éveil à la foi) **impliquant des adultes**, la règle appliquée est de 30 personnes maximum à l'intérieur, tout en respectant les mesures de distanciation et de protection en vigueur (ou Certificat Covid dès 16 ans sans limitation de nombre et règles sanitaires allégées).
 
-Dans le cas contraire, se référer à la [RO 2021 542](https://www.fedlex.admin.ch/eli/oc/2021/542/fr), notamment:
-
-- article 20 d
-- article 21
+Les leçons de religion, le catéchisme, les activités du culte de l'enfance sont possibles sans limitation de nombre au sens de l’art. 21 de l'[ordonnance fédérale du 8 septembre 2021](https://www.fedlex.admin.ch/eli/oc/2021/542/fr).

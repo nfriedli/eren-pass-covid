@@ -7,10 +7,6 @@ title: Manifestations culturelles en intérieur
 **Les manifestations en intérieur exigent un certificat Covid pour les personnes de 16 ans et plus.**
 Elles sont possibles sans limitation du nombre de personnes.
 
-## Groupes constitués
-
-Il existe une **exception** pour les [groupes constitués réguliers et limités](/groupes-constitues/).
-
 ## Manifestations concernées
 
 Le principe général s'applique à toutes les activités de l'EREN en intérieur:
@@ -23,11 +19,13 @@ Le principe général s'applique à toutes les activités de l'EREN en intérieu
 - conférences, débats, etc.
 - séances d'information, séance des parents, etc.
 
-Exceptions: [cultes, mariages et services funèbres](/religieux/).
+## Exceptions
+
+- manifestations religieuses: [cultes, mariages et services funèbres](/religieux/).
+- [groupes constitués réguliers et limités](/groupes-constitues/)
 
 ## Activités destinées aux <16 ans
 
-Si toutes les personnes de 16 ans et plus ne sont pas au bénéfice d'un certificat Covid, se référer à la [RO 2021 542](https://www.fedlex.admin.ch/eli/oc/2021/542/fr), notamment:
+Les leçons de religion, le catéchisme, les activités du culte de l'enfance sont possibles sans limitation de nombre au sens de l’art. 21 de l'[ordonnance fédérale du 8 septembre 2021](https://www.fedlex.admin.ch/eli/oc/2021/542/fr).
 
-- article 20 d
-- article 21
+Pour les activités ([groupes constitués](/groupes-constitues/) tels que l'éveil à la foi) **impliquant des adultes**, la règle appliquée est de 30 personnes maximum à l'intérieur, tout en respectant les mesures de distanciation et de protection en vigueur (ou Certificat Covid dès 16 ans sans limitation de nombre et règles sanitaires allégées).
