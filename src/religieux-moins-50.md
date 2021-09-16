@@ -29,14 +29,10 @@ Les manifestations religieuses qui exigent le certificat Covid doivent être **a
 
 **Contrôle obligatoire** (via l'application *COVID Certificate Check*) du certificat valide et d'une pièce d'identité à l'entrée en cas de doute. 
 
-### Enfants entre 12 et 16 ans
-
-XXX enfants
-
 ### Encadrement sans certificat Covid
 
-Dans le cas particulier une personne de l'encadrement n'est pas au bénéfice d'un certificat Covid, elle peut exercer en gardant le masque en tout temps.
-C'est le même principe que celui appliqué au personnel de la restauration et validé le SCAV.
+Dans le cas particulier où une personne de l'encadrement n'est pas au bénéfice d'un certificat Covid, elle peut exercer en gardant le masque en tout temps.
+Ce principe est validé le SCAV.
 
 ## À propos de la Cène
 

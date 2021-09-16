@@ -43,7 +43,7 @@ La **vérification** du certificat se fait par l’application **COVID Certifica
 L'utilisation du certificat Covid commence le 13 septembre 2021. 
 Elle durera au moins jusqu'au 24 janvier 2022.
 
-Les contenus seront actualisés en fonction des [mesures et ordonnances de la Confédération](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html), des décisions cantonales, des [directives du Conseil synodal](https://www.eren.ch/coronavirus/) et des retours à l'utilisation du site.
+Les contenus seront actualisés en fonction des [mesures et ordonnances de la Confédération](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html), des décisions cantonales, des consignes du Service de la consommation et des affaires vétérinaires (SCAV), des [directives du Conseil synodal](https://www.eren.ch/coronavirus/) et des retours à l'utilisation du site.
 
 ## Contact
 

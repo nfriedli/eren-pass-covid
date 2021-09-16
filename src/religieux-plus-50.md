@@ -12,10 +12,6 @@ Il n'y a pas de limitation du nombre de personnes.
 
 **Contrôle obligatoire** (via l'application *COVID Certificate Check*) du certificat valide et d'une pièce d'identité à l'entrée en cas de doute. 
 
-### Enfants entre 12 et 16 ans
-
-XXX enfants
-
 ## À propos de la Cène
 
 La Cène est célébrée en défilé ou en cercle. Il est nécessaire de faire attention aux points suivants:
@@ -27,8 +23,8 @@ La Cène est célébrée en défilé ou en cercle. Il est nécessaire de faire a
 
 ## Encadrement sans certificat Covid
 
-Dans le cas particulier une personne de l'encadrement n'est pas au bénéfice d'un certificat Covid, elle peut exercer en gardant le masque en tout temps.
-C'est le même principe que celui appliqué au personnel de la restauration et validé le SCAV.
+Dans le cas particulier où une personne de l'encadrement n'est pas au bénéfice d'un certificat Covid, elle peut exercer en gardant le masque en tout temps.
+Ce principe est validé le SCAV.
 
 ## Remarque
 

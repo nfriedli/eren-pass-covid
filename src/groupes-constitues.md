@@ -13,7 +13,7 @@ Les manifestations sont possibles sans certificat Covid si elles respectent **to
 
 ## Groupes constitués
 
-- groupes de prière ou de rencontre
+- groupes de bénévoles, de prière ou de rencontre
 - groupes nécessaires au fonctionnement de l'EREN (conseils et commissions)
 - catéchisme (selon organisation)
 - répétitions
@@ -21,10 +21,10 @@ Les manifestations sont possibles sans certificat Covid si elles respectent **to
 ## Remarque
 
 En général, les groupes constitués sont convoqués et ont des rencontres planifiées.
-**Les manifestations qui proposent une invitation ouverte ne peuvent pas être considérées comme groupes constitués, même si elles ne comptent pas plus de 30 personnes.**
+**Les manifestations qui proposent une *invitation ouverte* ne peuvent pas être considérées comme groupes constitués, même si elles ne comptent pas plus de 30 personnes.**
 
 ## Activités destinées aux <16 ans
 
-Pour les activités (groupes constitués tels que l'éveil à la foi) **impliquant des adultes**, la règle appliquée est de 30 personnes maximum à l'intérieur, tout en respectant les mesures de distanciation et de protection en vigueur (ou Certificat Covid dès 16 ans sans limitation de nombre et règles sanitaires allégées).
+Pour les activités (groupes constitués tels que l'éveil à la foi) **impliquant des adultes externes**, la règle appliquée est de 30 personnes maximum à l'intérieur, tout en respectant les mesures de distanciation et de protection en vigueur (ou Certificat Covid dès 16 ans sans limitation de nombre et règles sanitaires allégées).
 
 Les leçons de religion, le catéchisme, les activités du culte de l'enfance sont possibles sans limitation de nombre au sens de l’art. 21 de l'[ordonnance fédérale du 8 septembre 2021](https://www.fedlex.admin.ch/eli/oc/2021/542/fr).
